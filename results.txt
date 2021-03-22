@@ -1,0 +1,8 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.8.3, pytest-6.1.0, py-1.9.0, pluggy-0.13.1
+rootdir: /Users/parrt/grading/msds692/F20/recommender-shrutiroy203
+collected 2 items
+
+test_server.py ..                                                        [100%]
+
+============================== 2 passed in 2.47s ===============================
